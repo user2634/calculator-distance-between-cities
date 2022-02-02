@@ -1,6 +1,0 @@
-framework module Pods_FourthApp {
-  umbrella header "Pods-FourthApp-umbrella.h"
-
-  export *
-  module * { export * }
-}
